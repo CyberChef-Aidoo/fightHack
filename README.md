@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🛡️ Daily Sec Tools
+# 🛡️ Monthly Cybersecurity Tool.
 
-### One tool a day. Every day. Together.
+### One tool a month. Every month. Together.
 
-A team learning log where we pick, run, and document a new cybersecurity tool — one write-up at a time.
+A team learning log where we pick, run, and document a new cybersecurity tool. One write-up at a time.
 
 ![Tools Logged](https://img.shields.io/badge/tools%20logged-1-blue)
 ![Contributors](https://img.shields.io/badge/contributors-open-brightgreen)
